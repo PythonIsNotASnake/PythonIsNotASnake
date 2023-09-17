@@ -23,7 +23,7 @@
 ### 🐧 About Me:
 
 - 🔭 I’m working as Software Engineer and contributing to backend for building web applications.
-- 🌱 I’m learning more languages and deeper knowledge about the learned.
+- 🌱 I learn more languages and deepen my knowledge of what I have learned.
 - ⚡ Building full stack web applications, android apps, games and so on.
 - 📫 How to reach me: [![Mastodon Badge](https://img.shields.io/badge/-Kejukedor-darkblue?style=flat&logo=mastodon&logoColor=white)](https://nrw.social/@kejukedor)
 
