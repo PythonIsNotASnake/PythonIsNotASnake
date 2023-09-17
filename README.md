@@ -4,7 +4,7 @@
 
   <div id="badges">
     <a href="https://nrw.social/@kejukedor">
-      <img src="https://img.shields.io/badge/Kejukedor-darkblue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+      <img src="https://img.shields.io/badge/Kejukedor-6364ff?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
     </a>
     <a href="https://dev.to/pythonisnotasnake">
       <img src="https://img.shields.io/badge/Blog-gray?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to Badge"/>
@@ -25,7 +25,7 @@
 - 🔭 I’m working as Software Engineer and contributing to backend for building web applications.
 - 🌱 I learn more languages and deepen my knowledge of what I have learned.
 - ⚡ Building full stack web applications, android apps, games and so on.
-- 📫 How to reach me: [![Mastodon Badge](https://img.shields.io/badge/-Kejukedor-darkblue?style=flat&logo=mastodon&logoColor=white)](https://nrw.social/@kejukedor)
+- 📫 How to reach me: [![Mastodon Badge](https://img.shields.io/badge/-Kejukedor-6364ff?style=flat&logo=mastodon&logoColor=white)](https://nrw.social/@kejukedor)
 
 ---
 
